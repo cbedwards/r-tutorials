@@ -10,7 +10,7 @@
 ##   For ease/consistency, you can copy-paste that line into this script, so that now
 ##   every time you run the code again, you don't have to point and click (unless you're on a new computer with different folders)
 ##  #Here's mine
-setwd("I:/Dropbox/academia/resources/R scripts - do they live here/Wolfe barchart prototype")
+setwd("G:\repos\r-tutorials\Wolfe lab\visualizing relative abundance")
 ## 
 ## Step 0.2: install the necessary R packages if you don't have them on this computer. 
 ## Tools -> Install Packages
